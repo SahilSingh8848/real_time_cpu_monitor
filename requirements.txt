@@ -1,0 +1,4 @@
+dash
+dash-daq
+psutil
+plotly

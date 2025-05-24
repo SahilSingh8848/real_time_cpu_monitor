@@ -1,4 +1,5 @@
 📊 Real-Time Dashboard: CPU Utilization and System Performance
+
 A dynamic web-based dashboard built with Dash (Plotly) and psutil for real-time monitoring of your system's CPU, RAM, Disk, and Network performance. This tool provides instant insights into your computer's health and resource utilization, including a detailed view of top processes.
 
 ✨ Features

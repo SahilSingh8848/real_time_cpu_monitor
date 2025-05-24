@@ -42,4 +42,5 @@ Then open your browser and go to: http://127.0.0.1:8050
 
 👤 Author
 Sahil Singh
+
 GitHub: https://github.com/SahilSingh8848

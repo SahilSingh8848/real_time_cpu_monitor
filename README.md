@@ -27,10 +27,12 @@ pip (Python package manager)
 Installation
 Clone the repository:
 git clone https://github.com/SahilSingh8848/real_time_cpu_monitor.git
+
 cd real_time_cpu_monitor
 
 Create a virtual environment (recommended):
 python -m venv venv
+
 source venv/bin/activate # On Windows: venv\Scripts\activate
 
 Install dependencies: pip install -r requirements.txt
